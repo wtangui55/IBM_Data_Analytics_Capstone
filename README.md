@@ -1,35 +1,30 @@
-# IBM Data Science Capstone: Web Scraping Falcon 9 Launch Data
+## IBM Data Analytics Capstone
+In this capstone, I delved into the intricacies of data analytics, from the initial data collection to the final storytelling phase. The project was an extensive exercise in understanding and predicting technology trends.
 
-In this comprehensive capstone project, I applied a data science approach to predict SpaceX Falcon 9 first stage landings. The project spanned from data acquisition through web scraping to predictive modeling, providing a thorough analysis of launch success factors.
+### Project Scope
+- Focus on identifying current and future trends in technology skills.
+- Leveraged APIs, job postings, training portals, and surveys for a comprehensive dataset.
 
-## Project Scope
-- The objective was to predict the success of Falcon 9 first stage landings based on historical launch data.
-- Utilized web scraping to gather data directly from SpaceX's API and other relevant sources.
+### Methodology
+- **Data Collection**: Employed APIs and web scraping for dataset gathering.
+- **Data Wrangling**: Cleansed and prepped data for analysis.
+- **Exploratory Data Analysis (EDA)**: Investigated data distributions, outliers, and correlations.
+- **Data Visualization**: Developed interactive dashboards showcasing data distribution and trends.
+- **Statistical Analysis**: Utilized statistical methods for robust data analysis.
+- **Dashboard Creation**: Crafted insightful visual narratives using IBM Cognos Analytics.
+- **Presentation and Storytelling**: Translated complex data findings into an engaging visual presentation.
 
-## Methodology
-- **Data Collection**: Retrieved launch records using SpaceX API and web scraping techniques.
-- **Data Wrangling**: Transformed raw data into a clean format suitable for analysis.
-- **Exploratory Data Analysis (EDA)**: Performed an in-depth analysis to uncover patterns and insights.
-- **Data Visualization**: Created visualizations to better understand the launch outcomes.
-- **Machine Learning Prediction**: Applied classification models to predict landing outcomes.
-- **Model Tuning and Evaluation**: Conducted hyperparameter tuning and evaluated model performance.
+### Key Insights
+- Uncovered trends like the prevalence of SQL and the growing interest in NoSQL databases.
+- Highlighted the demand for web development skills, especially in JavaScript frameworks.
 
-## Key Insights
-- Identified key factors influencing landing success, such as payload mass and launch site.
-- Revealed the impact of booster version and reusability on mission success rates.
+### Implications
+- Indicated a need for continuous skill development in tech to remain competitive.
+- Emphasized the importance of NoSQL and JavaScript for future projects.
 
-## Implications
-- Provided actionable insights that can aid in improving the cost-efficiency of future launches.
-- Highlighted the importance of machine learning in advancing the success of space missions.
+### Conclusion
+- The project honed my data analysis and storytelling skills, readying me for future data-driven challenges in technology and decision-making.
 
-## Conclusion
-The project not only enhanced my expertise in data science techniques but also contributed to the field of space exploration by predicting landing outcomes, a crucial aspect of reusable rocket technology.
+---
 
-## Repository Contents
-- Jupyter notebooks with analysis and predictive modeling
-- Python scripts for web scraping
-- Data files in CSV format
-- Visualizations and plots
-- README detailing project methodology and findings
-
-Feel free to explore the repository and dive into the world of space launch analytics.
+Feel free to explore my repositories to see more of my work and the projects I'm passionate about!
